@@ -1,0 +1,21 @@
+{
+  "name": "funq.js",
+  "version": "1.0.0",
+  "description": "Function queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "function",
+    "query",
+    "generator",
+    "iterator",
+    "iterable",
+    "collection",
+    "array",
+    "linq"
+  ],
+  "author": "Paweł Wasilewski",
+  "license": "ISC"
+}
