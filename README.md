@@ -1,2 +1,2 @@
 # funq.js
-Function queries for JS
+Function queries for JavaScript using iterable objects and iterator. It's C# LINQ concept dressed in JavaScript.

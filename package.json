@@ -1,21 +1,24 @@
 {
   "name": "funq.js",
   "version": "1.0.0",
-  "description": "Function queries",
-  "main": "index.js",
+  "description": "Unleash the power of JS iterables. Use declarative programming paradigm to handle arrays and other array-like objects.",
+  "main": "funq.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
   "keywords": [
+    "js",
+    "javascript",
+    "iterable",
+    "iterator",
     "function",
     "query",
     "generator",
-    "iterator",
-    "iterable",
-    "collection",
     "array",
+    "declarative-programming",
+    "functional-programming",
     "linq"
   ],
-  "author": "Paweł Wasilewski",
+  "author": "Pawel Wasilewski",
   "license": "ISC"
 }
